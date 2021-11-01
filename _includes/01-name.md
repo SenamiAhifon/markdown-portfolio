@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+# SENAMI
+
+## My Page
+
+### What's New?
+
+#### What else?
